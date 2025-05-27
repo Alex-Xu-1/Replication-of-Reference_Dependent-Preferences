@@ -1,4 +1,4 @@
-# Replication of Reference-Dependent Preferences  
+# Replication of Reference-Dependent Preferences and the Risk-Return Trade-Off in the Chinese Market 
 
 This repository contains the code and supplementary materials for my Quantitative Finance research:  
 **"Replication of Reference-Dependent Preferences and the Risk-Return Trade-Off in the Chinese Market"**  
