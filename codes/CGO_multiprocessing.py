@@ -1,8 +1,3 @@
-'''
-    Note that this calculation is very time-consuming according to the logic of the paper.
-    After implementing multiprocessing, it still takes about 60 min to finish the calculation.
-'''
-
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
