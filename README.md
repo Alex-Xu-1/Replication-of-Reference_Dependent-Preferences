@@ -4,7 +4,7 @@ This repository contains the code and supplementary materials for my Quantitativ
 **"Replication of Reference-Dependent Preferences and the Risk-Return Trade-Off in the Chinese Market"**  
 
 My paper is available at:
-![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-blue.svg )  
+![arXiv](https://doi.org/10.48550/arXiv.2505.20608)  
 
 ## Code Structure  
 
